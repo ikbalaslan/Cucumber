@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="28.048" tests="5" skipped="0" failures="0" errors="0">
+<testcase classname="search_Feature" name="TC01_&quot;&lt;search_item&gt;&quot;_search - test_data - Example #1.1" time="7.552">
+<system-out><![CDATA[
+Given user is on the google home page.......................................passed
+When user search for "tesla" on google......................................passed
+Then verify page title contains "tesla".....................................passed
+Then close the application..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="search_Feature" name="TC01_&quot;&lt;search_item&gt;&quot;_search - test_data - Example #1.2" time="4.689">
+<system-out><![CDATA[
+Given user is on the google home page.......................................passed
+When user search for "nio" on google........................................passed
+Then verify page title contains "nio".......................................passed
+Then close the application..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="search_Feature" name="TC01_&quot;&lt;search_item&gt;&quot;_search - test_data - Example #1.3" time="4.888">
+<system-out><![CDATA[
+Given user is on the google home page.......................................passed
+When user search for "mercedes" on google...................................passed
+Then verify page title contains "mercedes"..................................passed
+Then close the application..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="search_Feature" name="TC01_&quot;&lt;search_item&gt;&quot;_search - test_data - Example #1.4" time="6.218">
+<system-out><![CDATA[
+Given user is on the google home page.......................................passed
+When user search for "bmw" on google........................................passed
+Then verify page title contains "bmw".......................................passed
+Then close the application..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="search_Feature" name="TC01_&quot;&lt;search_item&gt;&quot;_search - test_data - Example #1.5" time="4.51">
+<system-out><![CDATA[
+Given user is on the google home page.......................................passed
+When user search for "lexus" on google......................................passed
+Then verify page title contains "lexus".....................................passed
+Then close the application..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
